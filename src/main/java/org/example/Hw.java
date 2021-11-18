@@ -58,7 +58,7 @@ public class Hw {
     }
 
     public class HW6_1to4 {
-        public void main(String[] args) {
+        public void main(String[] args){
             Cat cat = new Cat();
             cat.run(201);
             cat.swim(1);
